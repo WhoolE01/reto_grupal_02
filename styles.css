@@ -30,7 +30,6 @@ Body {
 }
 
 .image-container {
-  display: absolute;
   margin: 0 auto;
   width: 300px;
   height: 300px;
